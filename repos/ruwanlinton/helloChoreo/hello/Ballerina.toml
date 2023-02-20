@@ -1,0 +1,9 @@
+[package]
+org = "RuwanLinton"
+name = "hello"
+version = "1.0.0"
+export = ["hello"]
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true

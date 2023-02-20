@@ -1,0 +1,35 @@
+{
+    "folders": [
+        {
+            "name": "choreo-project-root",
+            "path": "."
+        },
+        {
+            "path": "repos/ruwanlinton/helloChoreo/hello",
+            "name": "hello",
+            "metadata": {
+                "org": {
+                    "id": "3307",
+                    "handle": "ruwanlintongofwp"
+                },
+                "displayName": "hello",
+                "displayType": "restAPI",
+                "description": "hello API",
+                "projectId": "8494785d-0483-422e-b816-c509a5d13688",
+                "accessibility": "external",
+                "repository": {
+                    "appSubPath": "hello",
+                    "orgApp": "ruwanlinton",
+                    "nameApp": "helloChoreo",
+                    "branchApp": "main"
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "choreo": {
+            "projectID": "8494785d-0483-422e-b816-c509a5d13688",
+            "orgId": "3307"
+        }
+    }
+}
